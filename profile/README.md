@@ -60,7 +60,7 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
               </tr>
               <tr>
                 <td>/xp</td>
-                <td> Sistema de XP.</td>
+                <td> Veja a quantidade de XP que você possui.</td>
               </tr>
               <tr>
                 <td>/giveaway</td>
